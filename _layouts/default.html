@@ -31,13 +31,13 @@
         </a>
         
         <section id="i18n_links">
-          {% capture link1 %}{{ site.baseurl_root }}/zh{{ page.url}}{% endcapture %}
+          {% capture link1 %}{{ site.baseurl_root }}/zh{{ page.multiLangLink}}{% endcapture %}
           <button onclick="location.href='{{ link1 }}'" type="button" class="btn" 
             {% unless page.languages contains "zh" %}
               disabled
             {% endunless %}
           >中文</button>
-          {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+          {% capture link2 %}{{ site.baseurl_root }}{{ page.multiLangLink  }}{% endcapture %}
           <button onclick="location.href='{{ link2 }}'" type="button" class="btn" 
             {% unless page.languages contains "en" %}
               disabled

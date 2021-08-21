@@ -7,6 +7,8 @@ permalink: /resume/
 title: Resume
 email: resume
 
+multiLangLink: resume
+
 languages: ["en", "zh"]
 ---
 
