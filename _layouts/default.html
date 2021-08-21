@@ -32,7 +32,7 @@
         
         <section id="i18n_links">
           {% capture link1 %}{{ site.baseurl_root }}/zh{{ page.multiLangLink}}{% endcapture %}
-          <button onclick="location.href='/zh{{ page.multiLangLink}}'" type="button" class="btn" 
+          <button onclick="location.href='/zh/{{ page.multiLangLink}}'" type="button" class="btn" 
             {% unless page.languages contains "zh" %}
               disabled
             {% endunless %}
