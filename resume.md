@@ -28,6 +28,14 @@ School of Electronic, Information and Electrical Engineering
 
 # Experience
 
+## University of Maryland <span class="right">Aug. 2021 - Dec. 2021</span>
+
+*Teaching Assistant* @ CMSC 436 - Programming Handheld Systems
+
+- Responses to students’ questions on forum
+- Weekly oﬀice hours
+- Grades projects and tests
+
 ## ACM Research (Shanghai), Inc. <span class="right">Feb. 2021 - Mar. 2021</span>
 
 *Intern* @ Mechanical Engineering Department
