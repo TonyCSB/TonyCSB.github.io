@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico'  | relative_url }}">
-    <title>Tony's GitHub Page</title>
+    <title>{{ site.title | default: "Tony's GitHub Page" }}</title>
     {% if site.google_analytics_v4 %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_v4 }}"></script>
@@ -27,7 +27,7 @@
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ "Tony Chen" | default: site.github.repository_name }}</h1>
+          <h1>{{ site.title | default: "Tony's GitHub Page" }}</h1>
         </a>
         
         <section id="i18n_links">
