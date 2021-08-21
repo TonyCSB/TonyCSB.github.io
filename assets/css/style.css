@@ -113,6 +113,7 @@ hr { height: 0; border: 0; border-bottom: 1px dashed #b5e853; color: #b5e853; }
 .btn .icon { display: inline-block; width: 16px; height: 16px; margin: 1px 8px 0 0; float: left; }
 
 .btn-github .icon { opacity: 0.6; background: url("../images/blacktocat.png") 0 0 no-repeat; }
+.btn-pdf .icon { opacity: 0.6; background: url("../images/pdf.png") 0 0 no-repeat; }
 
 /* Links a, a:hover, a:visited */
 a { color: #63c0f5; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }

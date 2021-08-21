@@ -8,6 +8,7 @@ title: 个人简历
 email: resume
 
 multiLangLink: resume
+downloadPDF: resume_zh_US.pdf
 
 languages: ["en", "zh"]
 ---
