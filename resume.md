@@ -4,7 +4,7 @@
 
 layout: default
 permalink: /resume/
-title: Resume
+title: Tony Chen 's Resume
 email: resume
 
 multiLangLink: resume

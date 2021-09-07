@@ -4,7 +4,7 @@
 
 layout: default
 permalink: /zh/resume/
-title: 个人简历
+title: 陈思贝的个人简历
 email: resume
 
 multiLangLink: resume
