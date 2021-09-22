@@ -33,16 +33,17 @@ School of Electronic, Information and Electrical Engineering
 
 *Teaching Assistant* @ CMSC 436 - Programming Handheld Systems
 
-- Responses to students’ questions on forum
-- Weekly oﬀice hours
-- Grades projects and tests
+- Response to students' inquiry online
+- Holds office hours for 3 hrs/week
+- Write sample project codes
+- Grade projects and exams
 
 ## ACM Research (Shanghai), Inc. <span class="right">Feb. 2021 - Mar. 2021</span>
 
 *Intern* @ Mechanical Engineering Department
 
-- Used Solidworks to build 3-d parts.
-- Created an automatic archiving system to track and archive solidwork files of standard parts.
+- Used Solidworks to model 3-d parts.
+- Created an automatic archiving system to track and archive solidwork files of standard parts for future reuse.
 
 ## SAIC Motor Passenger Vehicle Company <span class="right">Jul. 2020 - Oct. 2020</span>
 
@@ -76,6 +77,24 @@ School of Electronic, Information and Electrical Engineering
 - Data entry, literature review and basic data compiling for cognitive diagnosis modeling.
 - Provides visual interpretation and analysis presentations.
 
+# Projects
+
+## Weather Pollution Data Visualization
+
+For **Data Visualization and Analysis** course taken in Shanghai Jiao Tong University.
+
+- Based on past weather pollution data of China from 2013-2018
+- Frontend created using d3.js and AMap api
+- Backend created using express server and sqlite3
+
+## Financial Record Keeping App
+
+For **Programming Handheld System** course taken in University of Maryland.
+
+- Created using latest SwiftUI framework
+- A simplified bookkeeping app that stores everything locally
+- Designed with payment remainder and transaction tagging system
+
 # Skills
 
 ## Languages
@@ -87,9 +106,11 @@ School of Electronic, Information and Electrical Engineering
 
 Python, Java, LaTeX, Swift, C, Ruby, Ocaml, SQL
 
+Have experience in SwiftUI framework and mobile development. Familiar with website development with database integration.
+
 ## Platform
 
-- Windows 10
+- Windows 11
 - Linux (Ubuntu/Raspberry Pi)
 - MacOS X
 
@@ -97,7 +118,7 @@ Python, Java, LaTeX, Swift, C, Ruby, Ocaml, SQL
 
 Bash, Javascript, HTML & CSS
 
-## Class B Commercial Drivers' License
+<!-- ## Class B Commercial Drivers' License -->
 
 # Honors & Certificates
 
