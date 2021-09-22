@@ -13,6 +13,8 @@ downloadPDF: resume_en_US.pdf
 languages: ["en", "zh"]
 ---
 
+Require future visa sponsorship.
+
 # Education
 
 ## University of Maryland <span class="right">Aug. 2018 - Dec. 2021</span>
