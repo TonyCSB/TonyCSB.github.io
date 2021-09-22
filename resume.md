@@ -106,8 +106,6 @@ For **Programming Handheld System** course taken in University of Maryland.
 
 Python, Java, LaTeX, Swift, C, Ruby, Ocaml, SQL
 
-Have experience in SwiftUI framework and mobile development. Familiar with website development with database integration.
-
 ## Platform
 
 - Windows 11
