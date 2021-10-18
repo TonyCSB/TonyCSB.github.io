@@ -8,7 +8,7 @@ title: Tony Chen's Resume
 email: resume
 
 multiLangLink: resume
-downloadPDF: resume_en_US.pdf
+downloadPDF: resume_enUS.pdf
 
 languages: ["en", "zh"]
 ---
