@@ -19,13 +19,17 @@ languages: ["en", "zh"]
 
 *Bachelor of Science* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
-Major in Computer Science w/ Cumulative GPA of 3.90
+Major in Computer Science w/ Cumulative GPA of 3.88
+
+Taking courses in Algorithm Design, Compiler, web and iOS Programming.
 
 ## Shanghai Jiao Tong University <span class="right">Feb. 2021 - Jun. 2021</span>
 
 *Exchange Program* <img class="logo" src="/assets/images/resume/sjtu_logo.png" alt="SJTU Logo">
 
 School of Electronic, Information and Electrical Engineering
+
+Taken course in Database Design, Data Visualization, Cryptography and Network Security.
 
 # Experience
 

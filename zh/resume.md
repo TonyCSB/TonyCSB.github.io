@@ -19,13 +19,17 @@ languages: ["en", "zh"]
 
 *本科学士学位* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
-计算机科学专业。累计GPA：3.90
+计算机科学专业。累计GPA：3.88
+
+课程：算法设计、编译器、iOS和网页编程。
 
 ## 上海交通大学 <span class="right">2021年2月 -- 2021年6月</span>
 
 *交换项目* <img class="logo" src="/assets/images/resume/sjtu_logo.png" alt="SJTU Logo">
 
 电子信息与电气工程学院
+
+课程：数据库设计、数据分析与可视化、密码学和网络安全。
 
 # 工作与实习经历
 
