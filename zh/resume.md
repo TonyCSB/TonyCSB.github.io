@@ -68,6 +68,24 @@ languages: ["en", "zh"]
 
 为认知分析建模进行数据输入，文学评估与数据分析。
 
+# 项目
+
+## 空气污染数据可视化
+
+上海交通大学**数据可视化和数据分析**课程大作业。
+
+- 数据基于中国2013年至2018年的大气污染数据
+- 前端由d3.js和高德地图api构成
+- 后端由express和sqlite3组成
+
+## 个人记账app
+
+马里兰大学**iOS编程**课程大作业。
+
+- 基于最新的SwiftUI框架
+- 完全本地化的个人记账app
+- 具有账单体系与交易记录功能，可对交易进行拍照、加tag等进行分类
+
 # 技能
 
 ## 语言
@@ -77,7 +95,7 @@ languages: ["en", "zh"]
 
 ## 编程语言
 
-Python, Java, LaTeX, Swift, C, Ruby, Ocaml, SQL
+Python, Java, LaTeX, Swift, C, Ruby, Ocaml, SQL, Flask
 
 ## 平台
 
@@ -89,7 +107,7 @@ Python, Java, LaTeX, Swift, C, Ruby, Ocaml, SQL
 
 Bash, Javascript, HTML & CSS
 
-## Class B Commercial Drivers' License
+<!-- ## Class B Commercial Drivers' License -->
 
 # 荣誉与证书
 
