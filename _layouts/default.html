@@ -31,16 +31,16 @@
         </a>
         
         <section id="i18n_links">
-          <button onclick="location.href='/zh/{{ page.multiLangLink}}'" type="button" class="btn" 
+          <a href='/zh/{{ page.multiLangLink}}' type="button" class="btn" 
             {% unless page.languages contains "zh" %}
               disabled
             {% endunless %}
-          >中文</button>
-          <button onclick="location.href='/{{ page.multiLangLink}}'" type="button" class="btn" 
+          >中文</a>
+          <a href='/{{ page.multiLangLink}}' type="button" class="btn" 
             {% unless page.languages contains "en" %}
               disabled
             {% endunless %}
-          >English</button>
+          >English</a>
         </section>
         
         <h2>Contact: <a href="mailto:{{ page.email | downcase | default: 'contact' }}{{ site.email }}">{{ page.email | downcase | default: 'contact' }}{{ site.email }}</a></h2>
