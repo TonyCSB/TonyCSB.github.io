@@ -7,6 +7,8 @@ permalink: /zh/ctrip_scraper/
 title: 携程大数据-机场数据自动化爬取方式
 email: contact
 
+multiLangLink: ctrip_scraper
+
 languages: ["zh"]
 ---
 
