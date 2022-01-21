@@ -143,4 +143,10 @@ button:disabled, button[disabled] { cursor: auto; color: gray; }
 
 .audi_step_img { width: 70%; text-align: center; margin: auto; display: block; margin-bottom: 15px; }
 
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+  color:gray;
+}
+
 /*# sourceMappingURL=style.css.map */
