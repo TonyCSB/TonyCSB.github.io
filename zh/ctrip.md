@@ -102,7 +102,55 @@ curl -A "MicroMessenger" \
 ]
 ```
 
-# 航线查询
+# 航线查询过去信息
+
+代码格式
+
+```bash
+curl -A "MicroMessenger" \
+-H "Content-Type: application/json;charset=utf-8" \
+-d '{"dCityCode":"${departureAirport}","aCityCode":"${arrivalAirport}"}' \
+-X POST "http://flightai-wechat.ctrip.com/api/lf/airway/trend7" 
+```
+
+`departureAirport`为出发机场三字代码，`arrivalAirport`为到达机场三字代码。
+
+样例代码
+
+```bash
+curl -A "MicroMessenger" \
+-H "Content-Type: application/json;charset=utf-8" \
+-d '{"dCityCode":"SHA","aCityCode":"PEK"}' \
+-X POST "http://flightai-wechat.ctrip.com/api/lf/airway/trend7"  
+```
+
+样例输出
+
+```json
+[
+  {
+    "day": "2022/02/19",
+    "uv": 217.79,
+    "order": 0,
+    "lfp": null,
+    "cap": 0,
+    "uv_yoy": 348.14,
+    "order_yoy": 0
+  },
+  ...
+  {
+    "day": "2022/01/14",
+    "uv": 23226.2,
+    "order": 8679.15,
+    "lfp": null,
+    "cap": 11273,
+    "uv_yoy": 9229.93,
+    "order_yoy": 4843.96
+  }
+]
+```
+
+# 航线查询预期信息
 
 代码格式
 
