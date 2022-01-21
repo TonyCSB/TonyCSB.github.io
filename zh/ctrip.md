@@ -10,7 +10,7 @@ email: contact
 languages: ["zh"]
 ---
 
-以下所有代码框未经注释均在terminal中运行。其中`${variable}`需替换成实际所需内容后才能执行。
+以下所有代码框未经注释均在`terminal`中运行。其中`${variable}`需替换成实际所需内容后才能执行。
 
 # 整体趋势
 
