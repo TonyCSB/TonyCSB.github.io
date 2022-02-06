@@ -33,7 +33,7 @@ Taken course in Database Design, Data Visualization, Cryptography and Network Se
 
 # Experience
 
-## University of Maryland <span class="right">Feb. 2022 - Dec. 2022</span>
+## University of Maryland <span class="right">Feb. 2022 - May. 2022</span>
 
 *Teaching Assistant* @ CMSC 335 - Web Application Development with JavaScript
 
