@@ -15,7 +15,7 @@ languages: ["en", "zh"]
 
 # Education
 
-## University of Maryland <span class="right">Aug. 2018 - Dec. 2021</span>
+## University of Maryland <span class="right">Aug. 2018 - May. 2022</span>
 
 *Bachelor of Science* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
