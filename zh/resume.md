@@ -33,7 +33,15 @@ languages: ["en", "zh"]
 
 # 工作与实习经历
 
-## 马里兰大学 <span class="right">2021年8月 -- 2021年12月</span>
+## 马里兰大学 <span class="right">2022年2月 -- 2022年5月</span>
+
+*助教* @ CMSC 335 - Javascript网站开发
+
+- 在论坛为学生解答问题。
+- 每周Office Hour。
+- 为项目和考试打分。
+
+## 马里兰大学 <span class="right">2021年8月 -- 2022年5月</span>
 
 *助教* @ CMSC 436 - 手持设备编程
 
