@@ -15,7 +15,7 @@ languages: ["en", "zh"]
 
 # 教育经历
 
-## 马里兰大学 <span class="right">2018年8月 -- 2021年12月</span>
+## 马里兰大学 <span class="right">2018年8月 -- 2022年5月</span>
 
 *本科学士学位* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
@@ -68,7 +68,7 @@ languages: ["en", "zh"]
 
 参与了摩根士丹利对摩根士丹利华鑫证券有限责任公司的51%股权的收购。参与起草修改了摩根华鑫的《公司治理制度》等一系列的规章制度。对公司的治理以及中国证券监督管理委员会的对行业监管监督工作有着较为深刻的了解
 
-## 美国马里兰大学 <span class="right">2019年10月 -- 2020年7月</span>
+## 美国马里兰大学 <span class="right">2019年10月 -- 2020年3月</span>
 
 *学生驾驶员* @ Shuttle UM
 
