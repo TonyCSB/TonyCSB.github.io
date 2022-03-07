@@ -75,7 +75,7 @@ Taken course in Database Design, Data Visualization, Cryptography and Network Se
 - Provided detailed information and presentations for regulatory administrations.
 - Comprehends securities regulation set forth by CSRC.
 
-## University of Maryland <span class="right">Oct. 2019 – Jul. 2020</span>
+## University of Maryland <span class="right">Oct. 2019 – Mar. 2020</span>
 
 *Student Driver* @ Shuttle UM
 
