@@ -13,15 +13,21 @@ downloadPDF: resume_zhUS.pdf
 languages: ["en", "zh"]
 ---
 
+# 工作经历
+
+## 高盛 <span class="right">2022年7月 -- 至今</span>
+
+*全栈软件工程师* @ 全球资本部
+
 # 教育经历
 
 ## 马里兰大学 <span class="right">2018年8月 -- 2022年5月</span>
 
 *本科学士学位* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
-计算机科学专业。累计GPA：3.88
+计算机科学专业。累计GPA：3.87
 
-课程：算法设计、编译器、iOS和网页编程。
+<!-- 课程：算法设计、编译器、iOS和网页编程。 -->
 
 ## 上海交通大学 <span class="right">2021年2月 -- 2021年6月</span>
 
@@ -29,9 +35,9 @@ languages: ["en", "zh"]
 
 电子信息与电气工程学院
 
-课程：数据库设计、数据分析与可视化、密码学和网络安全。
+<!-- 课程：数据库设计、数据分析与可视化、密码学和网络安全。 -->
 
-# 工作与实习经历
+<!-- # 工作与实习经历
 
 ## 马里兰大学 <span class="right">2022年2月 -- 2022年5月</span>
 
@@ -78,7 +84,7 @@ languages: ["en", "zh"]
 
 *研究助理* @ Department of Human Development and Quantitative Methodology
 
-为认知分析建模进行数据输入，文学评估与数据分析。
+为认知分析建模进行数据输入，文学评估与数据分析。 -->
 
 # 项目
 

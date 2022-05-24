@@ -13,15 +13,21 @@ downloadPDF: resume_enUS.pdf
 languages: ["en", "zh"]
 ---
 
+# Employment
+
+## Goldman Sachs <span class="right">Jul. 2022 - NOW</span>
+
+*Full-stack Software Engineer* @ Global Markets Division
+
 # Education
 
 ## University of Maryland <span class="right">Aug. 2018 - May. 2022</span>
 
 *Bachelor of Science* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
-Major in Computer Science w/ Cumulative GPA of 3.88
+Major in Computer Science w/ Cumulative GPA of 3.87
 
-Taking courses in Algorithm Design, Compiler, web and iOS Programming.
+<!-- Taking courses in Algorithm Design, Compiler, web and iOS Programming. -->
 
 ## Shanghai Jiao Tong University <span class="right">Feb. 2021 - Jun. 2021</span>
 
@@ -29,9 +35,9 @@ Taking courses in Algorithm Design, Compiler, web and iOS Programming.
 
 School of Electronic, Information and Electrical Engineering
 
-Taken course in Database Design, Data Visualization, Cryptography and Network Security.
+<!-- Taken course in Database Design, Data Visualization, Cryptography and Network Security. -->
 
-# Experience
+<!-- # Experience
 
 ## University of Maryland <span class="right">Feb. 2022 - May. 2022</span>
 
@@ -88,7 +94,7 @@ Taken course in Database Design, Data Visualization, Cryptography and Network Se
 *Research Assistant* @ Department of Human Development and Quantitative Methodology
 
 - Data entry, literature review and basic data compiling for cognitive diagnosis modeling.
-- Provides visual interpretation and analysis presentations.
+- Provides visual interpretation and analysis presentations. -->
 
 # Projects
 
