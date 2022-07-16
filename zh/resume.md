@@ -17,7 +17,9 @@ languages: ["en", "zh"]
 
 ## 高盛 <span class="right">2022年7月 -- 至今</span>
 
-*全栈软件工程师* @ 全球资本部
+*全栈软件工程师* <img class="logo" src="/assets/images/resume/gs_logo.png" alt="Goldman Sachs Logo">
+
+Global Markets Division - Synthetic Product Group
 
 # 教育经历
 

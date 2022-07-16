@@ -17,7 +17,9 @@ languages: ["en", "zh"]
 
 ## Goldman Sachs <span class="right">Jul. 2022 - NOW</span>
 
-*Full-stack Software Engineer* @ Global Markets Division
+*Full-stack Software Engineer* <img class="logo" src="/assets/images/resume/gs_logo.png" alt="Goldman Sachs Logo">
+
+Works in Synthetic Product Group under Global Markets Division
 
 # Education
 
