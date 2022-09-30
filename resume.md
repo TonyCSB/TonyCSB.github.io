@@ -27,7 +27,7 @@ Works in Synthetic Product Group under Global Markets Division
 
 *Bachelor of Science* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
-Major in Computer Science w/ Cumulative GPA of 3.87
+Major in Computer Science. Minor in General Business.
 
 <!-- Taking courses in Algorithm Design, Compiler, web and iOS Programming. -->
 

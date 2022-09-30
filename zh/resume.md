@@ -27,7 +27,7 @@ Global Markets Division - Synthetic Product Group
 
 *本科学士学位* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
 
-计算机科学专业。累计GPA：3.87
+计算机科学专业。辅修商科。
 
 <!-- 课程：算法设计、编译器、iOS和网页编程。 -->
 
