@@ -8,7 +8,7 @@ title: 陈思贝的个人简历
 email: resume
 
 multiLangLink: resume
-downloadPDF: resume_zhUS.pdf
+downloadLink: https://github.com/TonyCSB/Resume/raw/master/resume_zhUS.pdf
 
 languages: ["en", "zh"]
 ---
