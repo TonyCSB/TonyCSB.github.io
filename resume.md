@@ -141,6 +141,7 @@ Bash, Javascript, HTML & CSS
 
 # Honors & Certificates
 
+- Private Pilot License
 - Dean’s List and Academic Honor in all semesters
 - Office of Multi-Ethnic Student Education Academic Excellence Awards
 - Google Cloud Platform Essential Certificate

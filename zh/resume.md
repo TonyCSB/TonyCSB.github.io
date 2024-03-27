@@ -131,6 +131,7 @@ Bash, Javascript, HTML & CSS
 
 # 荣誉与证书
 
+- 美国FAA私用飞行执照
 - Dean’s List and Academic Honor in all semesters
 - Office of Multi-Ethnic Student Education Academic Excellence Awards
 - Google Cloud Platform Essential Certificate
