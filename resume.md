@@ -8,7 +8,7 @@ title: Sibei Chen's Resume
 email: resume
 
 multiLangLink: resume
-downloadLink: https://github.com/TonyCSB/Resume/raw/master/resume_enUS.pdf
+downloadLink: https://github.com/TonyCSB/Resume/releases/latest/download/resume_enUS.pdf
 
 languages: ["en", "zh"]
 ---
