@@ -8,7 +8,7 @@ title: 陈思贝的个人简历
 email: resume
 
 multiLangLink: resume
-downloadLink: http://api.chencraft.com/v1.0/file/resume_zhUS.pdf
+downloadLink: http://api.chencraft.com/v1.0/file/resume_zhCN.pdf
 
 languages: ["en", "zh"]
 ---
