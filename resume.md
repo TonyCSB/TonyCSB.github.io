@@ -17,21 +17,27 @@ languages: ["en", "zh"]
 
 ## Goldman Sachs <span class="right">Jul. 2022 - May. 2025</span>
 
-*Full-stack Software Engineer* <img class="logo" src="/assets/images/resume/gs_logo.png" alt="Goldman Sachs Logo">
+*Full-stack Software Engineer* <img class="logo" src="/assets/images/resume/gs_logo.png" alt="Goldman Sachs logo">
 
 Global Markets Division - Synthetic Product Group Engineering
 
 # Education
 
+## Nanyang Technology University <span class="right">Nov. 2025 - Oct. 2026</span>
+
+*Master of Science* <img class="logo wide" src="/assets/images/resume/ntu_logo.png" alt="NTU logo">
+
+Major in Blockchain.
+
 ## University of Maryland <span class="right">Aug. 2018 - May. 2022</span>
 
-*Bachelor of Science* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD Logo">
+*Bachelor of Science* <img class="logo" src="/assets/images/resume/umd_logo.png" alt="UMD logo">
 
 Major in Computer Science. Minor in General Business.
 
 ## Shanghai Jiao Tong University <span class="right">Feb. 2021 - Jun. 2021</span>
 
-*Exchange Program* <img class="logo" src="/assets/images/resume/sjtu_logo.png" alt="SJTU Logo">
+*Exchange Program* <img class="logo" src="/assets/images/resume/sjtu_logo.png" alt="SJTU logo">
 
 School of Electronic, Information and Electrical Engineering
 
